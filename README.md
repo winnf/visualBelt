@@ -1,5 +1,5 @@
 # Visual Belt
-The Visual Belt was designed and prototyped by Sam Newhook and I. We decided to target the visually impaired since this was a problem space we were bot interested in.
+The Visual Belt was designed and prototyped by Sam Newhook and I. We decided to target the visually impaired since this was a problem space we were both interested in.
 The device aims to provide alerts through various sounds to better improve the safety of daily activities and encourage independence.
 
 It was built using multiple ultrasonic sensors, speakers, and an Arduino board. For now, it has the ability to detect incoming objects from various directions
